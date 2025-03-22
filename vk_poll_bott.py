@@ -1,4 +1,4 @@
-token = "vk1.a.VZW7dzLmZlBZWCstCpXKQKWkxUOYMye9cthfgwylmCBmaKuTQ1MMz6QUELWexJP0pDfMECzA_AIr4NmOjKoiIYlQd8P7s0EUJyKiVH6xbRDerTgpzUWZvafK4KhjVR-MHmGQZx7Y3EXQLsKnPE0YuCtctpvmOSuRPzyjowfsRfK3mmC7zeU9gw8zVuAa_7TYZ7vo28scNbQNNBAmkdHSeQ"
+token = "ur_data"
 
 import requests
 from datetime import datetime, timedelta
